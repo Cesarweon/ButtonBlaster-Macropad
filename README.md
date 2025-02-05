@@ -28,6 +28,6 @@ My biggest challenge was making the traces on the PCB; I always ended up with no
 ![PCB](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Captura%20de%20pantalla%202025-02-04%20213054.png)
 
 
-![Case]()
+![Case](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Captura%20de%20pantalla%202025-02-04%20215507.png)
 
 
