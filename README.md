@@ -22,5 +22,12 @@ My biggest challenge was making the traces on the PCB; I always ended up with no
 - ButtonBlaster Bottom.STL
 
 
-Schematic
+![Schematic](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Captura%20de%20pantalla%202025-02-04%20213031.png)
+
+
+![PCB](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Captura%20de%20pantalla%202025-02-04%20213054.png)
+
+
+![Case]()
+
 
